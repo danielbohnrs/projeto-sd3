@@ -28,10 +28,8 @@ public class Sale {
 	private Seller seller;
 	
 	public Sale() {
-		super();
 	}
 	public Sale(Long id, Integer visited, Integer deals, Double amount, LocalDate date, Seller seller) {
-		super();
 		this.id = id;
 		this.visited = visited;
 		this.deals = deals;
