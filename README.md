@@ -7,7 +7,7 @@ https://dsvendasdb.netlify.app/
 
 DS Vendas é uma aplicação full stack web  construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em uma listagem sobre as vendas e gráficos sobre as vendas e o sucesso destas.
 
 ## Layout web
 ![Web 1](https://github.com/danielbohnrs/projeto-sd3/blob/master/dashboard%20sd3.png)
